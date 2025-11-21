@@ -10,11 +10,9 @@ This project implements an automated soda bottling system using Siemens TIA Port
 
 *System overview diagram showing the complete bottling line layout with all stations and components*
 
-<video src="https://res.cloudinary.com/dacpiss4b/video/upload/v1763698021/soda_bottling_ukga5j.mp4" controls autoplay loop muted width="100%">
-  Your browser does not support the video tag.
-</video>
+![Soda Bottling System Animation](images/illustration.gif)
 
-*Video demonstration of the soda bottling system in operation, showing the automated process from bottle feeding through filling, capping, and packaging*
+*Animated demonstration of the soda bottling system in operation, showing the automated process from bottle feeding through filling, capping, and packaging*
 
 ## Key Features
 
