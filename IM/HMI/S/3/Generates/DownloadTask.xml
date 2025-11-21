@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2025-06-09 04:12:12 (UTC)"
+    Runtime="SMART"
+    RtProjectName="Basic_Panel_2nd_Gen_Demo_PROJ_V17_V18.KTP400 Basic[KTP400 Basic PN]"
+    RtProjectFolderName="Basic_Panel_2nd_Gen_Demo_PROJ_V17_V18.KTP400 Basic[KTP400 Basic PN]"
+    DeviceType="KTP400_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP400" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <License
+    type="WCSSBP9999">WinCC Sm@rtServer for SIMATIC Basic Panel</License>
+  <FullDownload>pdata.rld</FullDownload>
+</DownloadTask>

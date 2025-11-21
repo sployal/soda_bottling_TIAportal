@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2025-06-09 01:02:38 (UTC)"
+    Runtime="SMART"
+    RtProjectName="Basic_Panel_2nd_Gen_Demo_PROJ_V17_V18.KTP1200[KTP1200 Basic PN]"
+    RtProjectFolderName="Basic_Panel_2nd_Gen_Demo_PROJ_V17_V18.KTP1200[KTP1200 Basic PN]"
+    DeviceType="KTP1200_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP1200" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R001.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R002.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R003.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R000.cnk</FullDownload>
+  <License
+    type="WCSSBP9999">WinCC Sm@rtServer for SIMATIC Basic Panel</License>
+  <FullDownload>pdata.rld</FullDownload>
+</DownloadTask>
